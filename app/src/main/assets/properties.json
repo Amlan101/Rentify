@@ -1,0 +1,123 @@
+[
+    {
+        "propertyName": "Sunrise Apartments",
+        "type": "2BHK",
+        "listingDate": "2023-10-15",
+        "location": "Sector 7, Mumbai",
+        "rating": 2.6,
+        "price": 32000
+    },
+    {
+        "propertyName": "Golden Nest",
+        "type": "3BHK",
+        "listingDate": "2023-11-02",
+        "location": "Sector 12, Bangalore",
+        "rating": 4.8,
+        "price": 45000
+    },
+    {
+        "propertyName": "Emerald Villas",
+        "type": "1BHK",
+        "listingDate": "2023-12-20",
+        "location": "Sector 5, Chennai",
+        "rating": 2.4,
+        "price": 20000
+    },
+    {
+        "propertyName": "Royal Gardens",
+        "type": "3BHK+",
+        "listingDate": "2024-01-10",
+        "location": "Sector 18, Hyderabad",
+        "rating": 4.7,
+        "price": 48000
+    },
+    {
+        "propertyName": "Silver Springs",
+        "type": "1RK",
+        "listingDate": "2024-02-05",
+        "location": "Sector 3, Kolkata",
+        "rating": 3.5,
+        "price": 15000
+    },
+    {
+        "propertyName": "Platinum Towers",
+        "type": "2BHK",
+        "listingDate": "2024-02-18",
+        "location": "Sector 10, Delhi",
+        "rating": 4.9,
+        "price": 38000
+    },
+    {
+        "propertyName": "Crystal Court",
+        "type": "3BHK",
+        "listingDate": "2024-03-08",
+        "location": "Sector 14, Pune",
+        "rating": 4.4,
+        "price": 28000
+    },
+    {
+        "propertyName": "Opal Apartments",
+        "type": "1BHK",
+        "listingDate": "2024-03-22",
+        "location": "Sector 8, Ahmedabad",
+        "rating": 4.6,
+        "price": 22000
+    },
+    {
+        "propertyName": "Diamond Heights",
+        "type": "3BHK",
+        "listingDate": "2024-01-30",
+        "location": "Sector 22, Jaipur",
+        "rating": 1.8,
+        "price": 42000
+    },
+    {
+        "propertyName": "Pearl Paradise",
+        "type": "2BHK",
+        "listingDate": "2023-11-25",
+        "location": "Sector 15, Lucknow",
+        "rating": 4.7,
+        "price": 30000
+    },
+    {
+        "propertyName": "Topaz Towers",
+        "type": "1BHK",
+        "listingDate": "2023-12-10",
+        "location": "Sector 11, Chandigarh",
+        "rating": 4.5,
+        "price": 23000
+    },
+    {
+        "propertyName": "Amethyst Residency",
+        "type": "3BHK+",
+        "listingDate": "2023-10-05",
+        "location": "Sector 9, Noida",
+        "rating": 3.6,
+        "price": 47000
+    },
+    {
+        "propertyName": "Sunset Homes",
+        "type": "1RK",
+        "listingDate": "2023-10-18",
+        "location": "Sector 6, Gurgaon",
+        "rating": 4.3,
+        "price": 17000
+    },
+    {
+        "propertyName": "Crimson Heights",
+        "type": "2BHK",
+        "listingDate": "2024-02-10",
+        "location": "Sector 4, Varanasi",
+        "rating": 4.6,
+        "price": 34000
+    },
+    {
+        "propertyName": "Azure Apartments",
+        "type": "1BHK",
+        "listingDate": "2024-03-01",
+        "location": "Sector 17, Bhopal",
+        "rating": 4.9,
+        "price": 29000
+    }
+]
+

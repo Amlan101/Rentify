@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miHome"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/miExplore"
+        android:icon="@drawable/mortarboard"
+        android:title="@string/explore" />
+    <item
+        android:id="@+id/miWishlist"
+        android:icon="@drawable/heart"
+        android:title="@string/wishlist" />
+    <item
+        android:id="@+id/miCommunity"
+        android:icon="@drawable/community"
+        android:title="@string/community" />
+</menu>
